@@ -1,6 +1,25 @@
 
 # 📘 Project Details — Restroly
 
+## 📑 Table of Contents
+
+- Overview
+- Objectives
+- Business Flow
+- Public Customer Flow
+- Admin / Manager Flow
+- Core Features
+- Architecture
+- Technology Stack
+- Database Design
+- API Structure
+- Swagger & API Docs
+- Auth APIs
+- Testing Strategy
+- Use Cases
+
+---
+
 ## 🧭 Overview
 
 **Restroly** is a comprehensive digital solution designed specifically for Indian restaurants. From street-side dhabas to fine dining establishments, RestroHub helps restaurants create digital menus, accept payments, manage orders, and build their online presence with minimal effort.
